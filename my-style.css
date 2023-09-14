@@ -307,6 +307,7 @@ header .open-menu  .mobile-nav-btn .mobile-nav-custom-svg .cusom-svg-line-2 {
     position: absolute;
     bottom: 0;
     left: 0;
+    top: 0;
     width: 100%;
     pointer-events: none;
 }
